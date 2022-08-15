@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Diego Aarón
-- 👀 I’m interested in Python and Django
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django projects
-- 📫 How to reach me ...
+- 👀 I’m interested in PL/SQL and Java
+- 🌱 I’m currently learning PL/SQL
+- 💞️ I’m looking to collaborate on Java Projects
 
 <!---
 diegoaaron/diegoaaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
