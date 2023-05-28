@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diego Aarón
-- 🌱 I’m currently learning PL/SQL
+- 🌱 I’m currently learning Python & Solidity
 
 <!---
 diegoaaron/diegoaaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
