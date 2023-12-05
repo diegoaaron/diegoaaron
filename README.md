@@ -3,7 +3,7 @@
 
 ### 🌎 Find me on the web
 - 🐦 [On twitter at times](https://twitter.com/diegoaarondv989)
-- 📝 [My CV](#)
+- 📝 [My CV](https://diegoaaron.github.io/cv/)
 
 <!---
 ### 😄 About me 
