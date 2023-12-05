@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Diego Aarón
-- 🌱 I’m currently learning Python & Solidity
+## 👋 Hi, I'm DIego Aarón!
+- 🌱 I'm from Lima, Peru. I am learning to program in backend technologies like JS/Node and Solidity.
+
+### 🌎 Find me on the web
+- 🐦 [On twitter at times](https://twitter.com/diegoaarondv989)
+- 📝 [My CV](#)
 
 <!---
-diegoaaron/diegoaaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+### 😄 About me 
+- 🌱 I’m learning JS & Solidity.
+- 🔭 I'm working to improve gaming platform at EXNOA LLC.
+### 📫 Get in touch
+- 📧 You can reach me at [Twitter](https://t/_kentaro_m) or [Linkedin](https://l/in/kentarom/)
 --->
