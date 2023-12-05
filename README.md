@@ -1,4 +1,4 @@
-## 👋 Hi, I'm DIego Aarón!
+## 👋 Hi, I'm DIego Damián!
 - 🌱 I'm from Lima, Peru. I am learning to program in backend technologies like JS/Node and Solidity.
 
 ### 🌎 Find me on the web
