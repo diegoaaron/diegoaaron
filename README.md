@@ -1,8 +1,10 @@
-## 👋 Hi, I'm DIego Damián!
-- 🌱 I'm from Lima, Peru. I am learning to program in backend technologies like JS/Node and Solidity.
+## 👋 Hi, I'm Diego Damián!
 
-### 🌎 Find me on the web
-- 🐦 [On twitter at times](https://twitter.com/diegoaarondv989)
+- 🌱 I'm from Lima, Peru. I am learning to program in backend technologies like JS and Node.js
+
+### 🌎 Find me on the WEB
+
+- 🐦 [On Twitter](https://twitter.com/diegoaarondv989)
 - 📝 [My CV](https://diegoaaron.github.io/cv/)
 
 <!---
