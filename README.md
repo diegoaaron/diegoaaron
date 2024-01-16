@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Diego Damián!
 
-- 🌱 I'm from Lima, Peru. I am learning to program in backend technologies like Java and Javascript (Node.js)
+- 🌱 I'm from Lima, Peru. I am learning to program in backend technologies like Javascript (Node.js)
 
 ### 🌎 Find me on the WEB
 
